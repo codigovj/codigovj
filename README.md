@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codigovj/codigovj/main/assets/logo.png" width="140" alt="Código VJ Logo" />
+  <img src="https://raw.githubusercontent.com/codigovj/codigovj/main/assets/cvj-logo-transparent.png" width="140" alt="Código VJ Logo" />
   <h1>Código VJ</h1>
   <p>🚀 Canal especializado en lenguajes de alto rendimiento, buenas prácticas y creación de herramientas para el desarrollo de videojuegos.</p>
   <p>
